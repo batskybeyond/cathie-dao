@@ -141,7 +141,7 @@ export default function Home() {
 					</div>
 				</div>
 				<Bounce top cascade>
-					<h1 className="md:text-5xl text-5xl md:pb-20 text-center tracking-wide">
+					<h1 className="md:text-5xl text-5xl md:pb-20 sm:text-xl text-center tracking-wide">
 						EMPOWER & EDUCATE Women, young people in Defi & NFTs
 					</h1>
 				</Bounce>
@@ -386,7 +386,7 @@ export default function Home() {
 								</h2>
 							}
 						>
-							<h2 className="font-inter md:text-2xl text-lg text-opacity-90 font-light pt-2 tracking-wide">
+							<h2 className="font-inter md:text-xl text-md text-opacity-90 font-light pt-2 tracking-wide">
 								TBD. Coming soon!
 							</h2>
 						</Collapse>
@@ -398,7 +398,7 @@ export default function Home() {
 								</h2>
 							}
 						>
-							<h2 className="font-inter md:text-2xl text-lg text-opacity-90 font-light pt-2 tracking-wide">
+							<h2 className="font-inter md:text-xl text-md text-opacity-90 font-light pt-2 tracking-wide">
 								DeFi protocols, NFT projects, & Hodling some
 								community first crypto coins with solid
 								fundementals
@@ -411,15 +411,16 @@ export default function Home() {
 								</h2>
 							}
 						>
-							<h2 className="font-inter md:text-2xl text-lg text-opacity-90 font-light pt-2 tracking-wide">
+							<h2 className="font-inter md:text-xl text-md text-opacity-90 font-light pt-2 tracking-wide">
 								From the basics of finance to modern aspects
 								like DeFi, and personal finance management will
 								be the core focus areas of the community. Our
-								team beings years of experience in top notch
-								firms from the finance world and so many trade
-								secrets. However, as newer opprtunities arrive,
-								the community can pitch in lots of ideas and we
-								can expand on them.
+								team brings years of experience in top notch
+								firms from the finance world like TPG Global,
+								Optiver, etc and so many trade secrets. However,
+								as newer opprtunities arrive, the community can
+								pitch in lots of ideas and we can expand on
+								them.
 							</h2>
 						</Collapse>
 						<Collapse
@@ -429,7 +430,7 @@ export default function Home() {
 								</h2>
 							}
 						>
-							<h2 className="font-inter md:text-2xl text-lg text-opacity-90 font-light pt-2 tracking-wide">
+							<h2 className="font-inter md:text-xl text-md text-opacity-90 font-light pt-2 tracking-wide">
 								Each NFT gives you access to be take part in the
 								DAO as an investment partner. Each one gives you
 								1 vote and 1 share of all profits generated.
@@ -442,10 +443,14 @@ export default function Home() {
 								</h2>
 							}
 						>
-							<h2 className="font-inter md:text-2xl text-lg text-opacity-90 font-light pt-2 tracking-wide">
-								top tier projects. We talk to team managing the
-								project, vet the community involvement &
-								enthusiasm, art quality and otherfactors
+							<h2 className="font-inter md:text-xl text-md text-opacity-90 font-light pt-2 tracking-wide">
+								Part of primary sales proceeds would be given by
+								the founders to the DAo treasury as seed money
+								to the fund. Also, a big chunk of secondary
+								royalities would be directly sent to the
+								treasury. Later on, if proven with that money,
+								the founding team will keep allocating more
+								funds.
 							</h2>
 						</Collapse>
 						<Collapse
@@ -455,13 +460,14 @@ export default function Home() {
 								</h2>
 							}
 						>
-							<h2 className="font-inter md:text-2xl text-lg text-opacity-90 font-light pt-2 tracking-wide">
-								We have lots of exciting ideas to expand on the
-								scope of the DAO and to bring in more people
-								into it. However, we would like to take it slow,
-								give amazing value to our genisis community and
-								we all can discuss together to see where to go
-								ahead.
+							<h2 className="font-inter md:text-xl text-md text-opacity-90 font-light pt-2 tracking-wide">
+								For now, project provides education & runs an
+								investment DAO. We have lots of exciting ideas
+								to expand on the scope of the DAO and to bring
+								in more people into it. However, we would like
+								to take it slow, give amazing value to our
+								genisis community and we all can discuss
+								together to see where to go ahead.
 							</h2>
 						</Collapse>
 					</Collapse.Group>
