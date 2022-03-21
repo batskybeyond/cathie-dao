@@ -141,13 +141,16 @@ export default function Home() {
 					</div>
 				</div>
 				<Bounce top cascade>
-					<h1 className="md:text-5xl text-5xl md:pb-20 sm:text-xl text-center tracking-wide">
+					<h1
+						className="lg:text-4xl text-4xl md:pb-20 sm:text-xl text-center tracking-wide mb-10 sm:mb-10
+						leading-[4.5em]"
+					>
 						EMPOWER & EDUCATE Women, young people in Defi & NFTs
 					</h1>
 				</Bounce>
 				<Zoom left cascade>
 					<section>
-						<h2 className="lg:text-xl text-xl pt-48 text-center tracking-wide text-[#BFBFBF] leading-[2.5em]">
+						<h2 className="lg:text-xl text-xl pt-48 text-center tracking-wide text-[#BFBFBF] leading-[2.5em] mt-10 sm:mt-10">
 							GRAB A #CATHIEDAO NFT & BECOME A PARTNER <br />{" "}
 							EQUAL VOTING RIGHTS & EQUAL PROFIT SHARE TO ALL
 							HOLDERS
