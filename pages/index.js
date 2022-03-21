@@ -297,7 +297,7 @@ export default function Home() {
 				<div className="w-full">
 					<Bounce bottom cascade>
 						<h1 className="md:text-5xl text-3xl px-2 pb-16 tracking-wide">
-							Foundating Team
+							Founding Team
 						</h1>
 					</Bounce>
 					<div className="lg:grid grid-cols-3 lg:gap-10 space-y-10 lg:space-y-0 items-start lg:px-20 w-full">
