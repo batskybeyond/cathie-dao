@@ -74,7 +74,7 @@ export default function Home() {
 									{"'"}t worry, it would not be some randomly
 									high number but a number which can balance
 									access to a wide range of audience and also
-									fill up the DAO treasury enough
+									fill up the DAO treasury enough.
 								</p>
 							</section>
 						</Zoom>
